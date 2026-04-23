@@ -1,0 +1,1 @@
+Space Wars is a 2D arcade shooter I developed in Python using Pygame for my Grade 11 Computer Science final project. Inspired by classic Space Invaders, the game puts you in control of a spaceship defending against waves of enemies, combining smooth controls, collision mechanics, and increasing difficulty to create a fast-paced experience.
